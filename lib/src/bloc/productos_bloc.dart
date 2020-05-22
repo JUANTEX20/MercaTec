@@ -1,9 +1,9 @@
 import 'dart:io';
 
-import 'package:comunidadmercado/src/providers/productos_provider.dart';
+import 'package:MercaTEC/src/providers/productos_provider.dart';
 import 'package:rxdart/rxdart.dart';
 
-import 'package:comunidadmercado/src/models/producto_model.dart';
+import 'package:MercaTEC/src/models/producto_model.dart';
 
 
 

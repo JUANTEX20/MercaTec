@@ -1,12 +1,12 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
-import 'package:comunidadmercado/src/bloc/provider.dart';
+import 'package:MercaTEC/src/bloc/provider.dart';
 import 'package:image_picker/image_picker.dart';
 
 
-import 'package:comunidadmercado/src/models/producto_model.dart';
-import 'package:comunidadmercado/src/utils/utils.dart' as utils;
+import 'package:MercaTEC/src/models/producto_model.dart';
+import 'package:MercaTEC/src/utils/utils.dart' as utils;
 
 
 class ProductoPage extends StatefulWidget {

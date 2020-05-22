@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:comunidadmercado/src/preferencias_usuario/preferencias_usuario.dart';
+import 'package:MercaTEC/src/preferencias_usuario/preferencias_usuario.dart';
 import 'package:http/http.dart' as http;
 
 class UsuarioProvider {

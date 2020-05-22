@@ -1,13 +1,13 @@
-import 'package:comunidadmercado/src/preferencias_usuario/preferencias_usuario.dart';
+import 'package:MercaTEC/src/preferencias_usuario/preferencias_usuario.dart';
 import 'package:flutter/material.dart';
 
-import 'package:comunidadmercado/src/bloc/provider.dart';
+import 'package:MercaTEC/src/bloc/provider.dart';
 
-import 'package:comunidadmercado/src/pages/home_page.dart';
-import 'package:comunidadmercado/src/pages/login_page.dart';
-import 'package:comunidadmercado/src/pages/producto_page.dart';
-import 'package:comunidadmercado/src/pages/registro_page.dart';
-import 'package:comunidadmercado/src/preferencias_usuario/preferencias_usuario.dart';
+import 'package:MercaTEC/src/pages/home_page.dart';
+import 'package:MercaTEC/src/pages/login_page.dart';
+import 'package:MercaTEC/src/pages/producto_page.dart';
+import 'package:MercaTEC/src/pages/registro_page.dart';
+import 'package:MercaTEC/src/preferencias_usuario/preferencias_usuario.dart';
  
 void main() async {
 WidgetsFlutterBinding.ensureInitialized(); 

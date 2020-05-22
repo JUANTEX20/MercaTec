@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:comunidadmercado/src/bloc/provider.dart';
-import 'package:comunidadmercado/src/providers/usuario_provider.dart';
+import 'package:MercaTEC/src/bloc/provider.dart';
+import 'package:MercaTEC/src/providers/usuario_provider.dart';
 
-import 'package:comunidadmercado/src/utils/utils.dart';
+import 'package:MercaTEC/src/utils/utils.dart';
 
 class LoginPage extends StatelessWidget {
 

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:comunidadmercado/src/bloc/provider.dart';
-import 'package:comunidadmercado/src/models/producto_model.dart';
+import 'package:MercaTEC/src/bloc/provider.dart';
+import 'package:MercaTEC/src/models/producto_model.dart';
 
 class HomePage extends StatelessWidget {
   

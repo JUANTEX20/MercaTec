@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
-import 'package:comunidadmercado/src/bloc/login_bloc.dart';
-export 'package:comunidadmercado/src/bloc/login_bloc.dart';
+import 'package:MercaTEC/src/bloc/login_bloc.dart';
+export 'package:MercaTEC/src/bloc/login_bloc.dart';
 
-import 'package:comunidadmercado/src/bloc/productos_bloc.dart';
-export 'package:comunidadmercado/src/bloc/productos_bloc.dart';
+import 'package:MercaTEC/src/bloc/productos_bloc.dart';
+export 'package:MercaTEC/src/bloc/productos_bloc.dart';
 
 
 class Provider extends InheritedWidget {
