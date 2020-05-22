@@ -1,4 +1,4 @@
-# comunidadmercado
+# MercaTec
 
 A new Flutter application.
 
